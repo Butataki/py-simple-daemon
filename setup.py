@@ -5,7 +5,7 @@ setup(
     packages = ['simple_daemon'],
     # metadata
     author = "Roman Shuvalov",
-    author_email = "rshuvalov@abtronics.ru",
+    author_email = "orangato@yandex.ru",
     description = "Simple daemon package. Import Daemon class, subclass it, override run method and you ready.",
     keywords = "simple daemon",
 )
